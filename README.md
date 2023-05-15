@@ -11,3 +11,5 @@ To use the todo list app clone the public master repository from the url below:
 https://github.com/mohadeev/drag_drop_vuejs.git
 
 git clone https://github.com/mohadeev/drag_drop_vuejs.git
+
+check the deployed website => https://drag-drop-vuejs.vercel.app/

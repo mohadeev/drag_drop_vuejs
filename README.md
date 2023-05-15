@@ -5,3 +5,9 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+To use the todo list app clone the public master repository from the url below:
+
+https://github.com/mohadeev/drag_drop_vuejs.git
+
+git clone https://github.com/mohadeev/drag_drop_vuejs.git

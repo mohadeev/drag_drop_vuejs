@@ -117,7 +117,7 @@ const updateElementValue = () => {
 <template>
   <main>
     <div class="div_top_control">
-      <h1>Kaban Board</h1>
+      <h1>Todo List</h1>
       <div class="top_items">
         <input
           class="input_top"
